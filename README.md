@@ -1,3 +1,3 @@
 # AslTranslator-
 
-# ~accuracy needs work~
+# accuracy needs work
