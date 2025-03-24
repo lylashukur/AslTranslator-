@@ -3,7 +3,6 @@ import mediapipe as mp
 import pandas as pd
 import numpy as np
 
-
 current_label = None
 
 # Initialize hands
