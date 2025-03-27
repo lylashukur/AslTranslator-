@@ -3,4 +3,6 @@
 *.csv
 *.jpg
 *.keras
+*.png
+logs/
 
